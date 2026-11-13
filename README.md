@@ -5,7 +5,7 @@ Primera versión ejecutable y modular. Todas las estructuras centrales están
 implementadas a mano: **no se usa `std::list`, `std::queue`, `std::stack` ni
 `std::vector`/`std::map` para almacenar los datos del sistema**.
 
-**RAFAEL TIRADO**
+**Sofia Rivera**
 
 ## Compilar y ejecutar
 
@@ -102,14 +102,14 @@ Evidencia de ejecución: ver `docs/EVIDENCIAS.md`.
 
 | Funcionalidad | Estado | Responsable |
 |---|---|---|
-| Menú principal persistente y submenús con Volver | Terminada |RAFAEL T |
-| Lista enlazada de pasajeros (CRUD + listar) | Terminada |RAFAEL T |
-| Grafo: alta/baja de ciudad, alta/baja de ruta, vecinos | Terminada |RAFAEL T |
-| Cola enlazada: encolar, atender, mostrar frente | Terminada |RAFAEL T |
-| Historial (pila) | Terminada |RAFAEL T |
-| Búsquedas (por ID, por nombre, ruta más corta) | Terminada |RAFAEL T |
-| Reportes (resumen general) | Terminada (básica) |RAFAEL T |
-| Guardar / cargar en archivo | Terminada |RAFAEL T |
+| Menú principal persistente y submenús con Volver | Terminada |Sofia Rivera |
+| Lista enlazada de pasajeros (CRUD + listar) | Terminada |Sofia Rivera |
+| Grafo: alta/baja de ciudad, alta/baja de ruta, vecinos | Terminada |Sofia Rivera |
+| Cola enlazada: encolar, atender, mostrar frente | Terminada |Sofia Rivera |
+| Historial (pila) | Terminada |Sofia Rivera |
+| Búsquedas (por ID, por nombre, ruta más corta) | Terminada |Sofia Rivera |
+| Reportes (resumen general) | Terminada (básica) |Sofia Rivera |
+| Guardar / cargar en archivo | Terminada |Sofia Rivera |
 | Rutas dirigidas / tiempos de viaje | Pendiente | – |
 | Cola con prioridades | Pendiente | – |
 | Pruebas automatizadas con framework | Pendiente | – |
